@@ -1,4 +1,4 @@
-#:
+
 👋 About Me<br>I’m currently focused on learning and upskilling rather than working on a job or project.<br>📚 What I’m Learning<br>Data Science<br>Python<br>NumPy<br>Pandas<br>Data Visualization (Matplotlib, Seaborn – learning)<br>DSA in Java<br>Arrays, Strings, Recursion<br>Problem-solving on platforms like LeetCode<br>💬 Ask Me About<br>Python basics and logic building<br>NumPy & Pandas operations<br>Data cleaning and analysis<br>Beginner-friendly DSA problems in Java<br>How to start with Data Science as a student<br>⚡ Fun Fact<br>I enjoy solving coding problems even when they feel difficult 😄<br>I can spend hours debugging a single error without giving up<br>I believe consistency matters more than speed 🚀
 
 
